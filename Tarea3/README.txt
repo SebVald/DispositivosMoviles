@@ -1,0 +1,1 @@
+Solamente están las pantallas que voy a utilizar en mi app. Subí el proyecto completo mas éste no hace nada aún, la funcionalidad la tengo a parte porque la tarea era solamente las pantallas según tengo entendido.
