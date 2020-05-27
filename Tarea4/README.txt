@@ -1,0 +1,1 @@
+Contiene todo el proyecto de NotiMax y también está el APK para directamente instalarlo y probar. Probado con Android 9.
